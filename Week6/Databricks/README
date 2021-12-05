@@ -1,0 +1,16 @@
+Databricks Lab Readme File
+
+Parts of the Assignment
+
+1. Create a Databricks Community Edition Account
+
+2. Complete the Quickstart Tutorial
+
+3. Import the csv file Cars_EV as data source
+
+4. Create a new SQL notebook and run simple select statements on the Cars_EV file
+
+![SQL](databricks_sql.PNG)
+
+
+5. 
